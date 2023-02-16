@@ -13,7 +13,9 @@
 - 🚀 OPEN TO WORK...
 - 📖 OPEN TO LEARN...
 
-<img style="max-width: 20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img style="max-width: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
 
 
 <div class="container">
